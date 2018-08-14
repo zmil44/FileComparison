@@ -1,0 +1,21 @@
+OK, FileZilla is a free File Transfer protocol (FTP) program. What it does is simple, it lets you see files on another computer and move files between your computer and that one!
+
+So when you open the program, you'll see some boxes along the top, they need the following info:
+Host: academic1.bellevue.edu
+Username: CIS3371006
+Password: XdeA5rGs
+Port: <blank>
+
+Press Quick Connect.
+
+You may get a notification about a security certificate - check the "Always trust" checkbox and OK
+
+Once you are logged in, you'll see the "Remote Site" area (right side of the screen) populate with your folder name (same as your username) in the top right, and the listing of files in the bottom right (should be empty)
+
+On the left side is your local computer. Browse to the directory where you created your site in the top left pane, highlight the Index file in the bottom left, right click and select "Upload" After a second of so it should appear in the bottom right panel - it's on your server!
+
+Now open your browser and go to http://academic1.bellevue.edu/userusername> and there it is!
+
+For this first couple of weeks let's add the files to that main directory on the server (don't create any new folders there) once we have that down, we can start making a folder structure.
+
+Go ahead and upload your week 1 assignment, and if you have any issues at all post them up and we'll fix them
